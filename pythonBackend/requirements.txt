@@ -1,0 +1,8 @@
+flask
+numpy
+scikit-learn
+gunicorn==20.1.0
+geopy==2.2.0
+pandas>=2.2.2
+folium
+flask_cors
